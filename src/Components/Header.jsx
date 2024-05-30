@@ -181,15 +181,13 @@ function Header() {
           
           .header-pic {
             position: relative;
-            padding-top:5.6rem;
-            width: 50%;
+            padding-top:7.4rem;
             width:911px;
-            height: 880px;
-            /* overflow: hidden; Ensure the image doesn't overflow */
+            height: 890px;
           }
           .header-image{
             width: 653px;
-            height: 868px;
+            height: 870px;
             margin-left:auto;
           }
           

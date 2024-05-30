@@ -1,7 +1,7 @@
 # React + Vite
 
 **This repository contains the LearnHub Homepage. 
-The Homepage has been divide into different components, so that each component can be managed and understood easily.
+The Homepage has been divided into different components, so that each component can be managed and understood easily.
 
 The website has been deployed on Netlify 
 

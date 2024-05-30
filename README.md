@@ -1,5 +1,12 @@
 # React + Vite
 
+**This repository contains the LearnHub Homepage. 
+The Homepage has been divide into different components, so that each component can be managed and understood easily.
+
+The website has been deployed on Netlify 
+
+Link: https://66584ffe1ce667e2222f8b07--lucky-boba-4adaf0.netlify.app/**
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
